@@ -1,0 +1,4 @@
+- 👋 Ola meu nome é @AdrieleFerreira
+- 👀 meu gmail de contato é adriele.moraes@escola.pr.gov.br
+- 🌱 Eu estou enteressado em aprender a programar novas linquagens.
+- 💞️ Eu estou aprendendo a pragramar recentemente a linquagem de JavaScript e Scratch
